@@ -3,4 +3,4 @@ m4irq38n7m2n6cs0a5flt1cqu8
 http://192.168.188.77/judge/status.php?&cid=%s&top=%s
 
 //外网
-http://www.nfls.com.cn:20035/judge/status.php?&problem_id=%s&top=%s
+http://www.nfls.com.cn:20035/judge/status.php?&cid=%s&top=%s
