@@ -34,3 +34,5 @@ NFLS-HUSTOJ关闭了排行榜功能，故实现。
 ![out_contest](https://user-images.githubusercontent.com/34835642/141994390-73ce36e7-d7d8-49a1-8479-1b30d635effb.png)
 
 
+# 注意
+由于SessionID容易过期，每次启动程序前，都必须执行1，2步，且使用过程中不要退出登录或关闭浏览器！
