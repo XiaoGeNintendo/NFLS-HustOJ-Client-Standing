@@ -16,7 +16,7 @@ NFLS-HUSTOJ关闭了排行榜功能，故实现。
 [查看样例](https://github.com/XiaoGeNintendo/NFLS-HustOJ-Client-Standing/blob/main/problemset.txt)
 
 4. 保存文件，运行`spider.py`，确认信息无误后按下Enter。结果可以在`out_ps.html`中找到。
-![out_ps](https://user-images.githubusercontent.com/34835642/141993368-3df37954-26c7-4315-8d47-6b02de41eb44.png)
+![out_ps](https://user-images.githubusercontent.com/34835642/141994272-7e7d1d5d-8c2c-49d7-a18e-7d6c7f47925e.png)
 
 # 使用方法（比赛排行榜）
 1. 登录[HustOJ](http://www.nfls.com.cn:20035/)或内网[HustOJ](http://192.168.188.77)并登录自己的账号
@@ -31,5 +31,6 @@ NFLS-HUSTOJ关闭了排行榜功能，故实现。
 [查看样例](https://github.com/XiaoGeNintendo/NFLS-HustOJ-Client-Standing/blob/main/contest.txt)
 
 4. 保存文件，运行`spider2.py`，确认信息无误后按下Enter。结果可以在`out_contest.html`中找到。
-![out_contest](https://user-images.githubusercontent.com/34835642/141993478-2255bc81-c3e4-4037-a1e5-249e2df7dd5f.png)
+![out_contest](https://user-images.githubusercontent.com/34835642/141994390-73ce36e7-d7d8-49a1-8479-1b30d635effb.png)
+
 
