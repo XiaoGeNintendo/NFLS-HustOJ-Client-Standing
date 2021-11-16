@@ -1,0 +1,6 @@
+m4irq38n7m2n6cs0a5flt1cqu8
+1486,1487,4302,2878,10415,10418,10417,10414
+http://192.168.188.77/judge/status.php?&problem_id=%s&top=%s
+
+//外网
+http://www.nfls.com.cn:20035/judge/status.php?&problem_id=%s&top=%s
